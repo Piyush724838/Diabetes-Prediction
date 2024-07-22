@@ -1,9 +1,9 @@
 # Diabetes-Predictio
 # Objective
 # Techniques Used
-Data Cleaning
-Data Visualization
-Machine Learning Modeling
+1- Data Cleaning
+2- Data Visualization
+3- Machine Learning Modeling
 # Algortihms Used
 Logistic Regression
 Support Vector Machine
