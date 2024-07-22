@@ -8,27 +8,42 @@
 3- Machine Learning Modeling
 
 # Algortihms Used
-Logistic Regression
-Support Vector Machine
-KNN
-Random Forest Classifier
-Naivye Bayes
-Gradient Boosting
+1-Logistic Regression
+
+2-Support Vector Machine
+
+3-KNN
+
+4-Random Forest Classifier
+
+5-Naivye Bayes
+
+6-Gradient Boosting
 # Model Evaluation Methods Used
-Accuracy Score
-ROC AUC Curve
-Cross Validation
-Confusion Matrix
+1-Accuracy Score
+
+2-ROC AUC Curve
+
+3-Cross Validation
+4-Confusion Matrix
 # Guide Lines
 # Packages and Tools Required:
-Pandas 
-Matplotlib
-Seaborn
-Scikit Learn
-Jupyter Notebook
+1-Pandas 
+
+2-Matplotlib
+
+3-Seaborn
+
+4-Scikit Learn
+
+5-Jupyter Notebook
 # Package Installation
-pip install numpy
-pip install pandas
-pip install seaborn
-pip install scikit-learn
-pip install matplotlib
+1-pip install numpy
+
+2-pip install pandas
+
+3-pip install seaborn
+
+4-pip install scikit-learn
+
+5-pip install matplotlib
