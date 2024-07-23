@@ -1,4 +1,4 @@
-# Diabetes-Predictio
+# Diabetes-Prediction
 # Objective
 # Techniques Used
 1- Data Cleaning
